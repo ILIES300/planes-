@@ -309,7 +309,6 @@ int menu_a()
     printf("  ******************************************************************************\n");
     printf("  ************************* Gestion du Trafic Aerien ***************************\n");
     printf("  ******************************************************************************\n");
-    printf("  ********FELLAH Mustapha Habib*******Universite de Saida Dr. Moulay Tahar******\n");
     printf("  ******************************************************************************\n");
     printf("  * 1 : - - - - - - - - - - - - > Remplir la liste des avions -----------------*\n");
     printf("  * 2 : - - - - - - - - - - - - > Verifier si un avion est dans l aeroport  ---*\n");
